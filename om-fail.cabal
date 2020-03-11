@@ -2,11 +2,11 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                om-fail
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Monad transformer providing MonadFail.
 -- description:         
 homepage:            https://github.com/owensmurray/om-fail
-license:             AllRightsReserved
+license:             MIT
 license-file:        LICENSE
 author:              Rick Owens
 maintainer:          rick@owensmurray.com
