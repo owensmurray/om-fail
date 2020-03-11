@@ -1,3 +1,3 @@
 # om-fail
 
-Write me.
+Haskell monad transformer providing `MonadFail`.
