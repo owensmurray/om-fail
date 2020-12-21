@@ -9,7 +9,6 @@ module OM.Fail (
 
 
 import Control.Exception.Safe (MonadThrow, MonadCatch)
-import Control.Monad.Fail (MonadFail, fail)
 import Control.Monad.IO.Class (MonadIO)
 import Control.Monad.Logger (MonadLogger, MonadLoggerIO)
 import Control.Monad.Trans.Class (MonadTrans)
