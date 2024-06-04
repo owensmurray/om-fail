@@ -1,6 +1,6 @@
 cabal-version:       3.0
 name:                om-fail
-version:             0.1.0.3
+version:             0.1.0.4
 synopsis:            Monad transformer providing MonadFail.
 -- description:         
 homepage:            https://github.com/owensmurray/om-fail
