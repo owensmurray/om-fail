@@ -8,7 +8,7 @@ license:             MIT
 license-file:        LICENSE
 author:              Rick Owens
 maintainer:          rick@owensmurray.com
-copyright:           2024 Owens Murray, LLC.
+copyright:           2025 Owens Murray, LLC.
 -- category:            
 build-type:          Simple
 extra-source-files:  README.md
@@ -19,7 +19,7 @@ library
   -- other-modules:       
   -- other-extensions:    
   build-depends:
-    , base            >= 4.15.1.0 && < 4.21
+    , base            >= 4.15.1.0 && < 4.22
     , monad-logger    >= 0.3.36   && < 0.4
     , safe-exceptions >= 0.1.7.1  && < 0.2
     , transformers    >= 0.5.6.2  && < 0.7
